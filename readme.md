@@ -1,3 +1,5 @@
+![Snake Game Screenshot](image/game.png)
+
 # Compile from source
 
 You will need Clang toolchain , C++ version>=17  
